@@ -8,10 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78cbe1d7-238d-4ac9-881f-cb1d890c9bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EF-YouTube-tutorialsEU.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EF-YouTube-tutorialsEU/EF-YouTube-tutorialsEU.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EF-YouTube-tutorialsEU/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EF-YouTube-tutorialsEU/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EF-YouTube-tutorialsEU/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EF-YouTube-tutorialsEU/EF-YouTube-tutorialsEU.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EF-YouTube-tutorialsEU/EF-YouTube-tutorialsEU.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EF-YouTube-tutorialsEU/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EF-YouTube-tutorialsEU/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +20,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rpatton4"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rpatton4/EF-YouTube-tutorialsEU.git",
+    "accountId": "31a4dcb6-6bda-45b6-8166-a51761849213"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kYwu2Z5rM7FVdJiCfWzbG9Au9f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.EF-YouTube-tutorialsEU.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -79,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723474036476</updated>
       <workItem from="1723474037666" duration="3241000" />
+      <workItem from="1723481588759" duration="6183000" />
     </task>
     <servers />
   </component>
